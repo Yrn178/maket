@@ -1,0 +1,16 @@
+/* @font-face {
+    font-family: Cyberpunk;
+    font-style: normal;
+    font-weight: 400;
+    src: url('../../fonts/cyberpunk-font/Cyberpunk_RUS_BY_LYAJKA.ttf');
+  }
+  
+  @font-face {
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 400;
+    src: url('../../fonts/Roboto-Regular.ttf');
+  } */
+
+
+  /* подключаем шрифты из папки фонтс глобально */
